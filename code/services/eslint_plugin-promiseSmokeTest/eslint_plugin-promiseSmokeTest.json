@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,eslint_plugin-promise",
+    "logging_enabled": "false",
+    "name": "eslint_plugin-promiseSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "eslint_plugin-promiseSmokeTest.js"
+}
